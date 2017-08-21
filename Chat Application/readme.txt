@@ -1,0 +1,1 @@
+This is server-client multi-user chat application. There are two packages. One is for the client, and other is for the server. You need to run server.java to connect the localhost ip and port. Then run client.java to connect the server and store the user information in localhost’s mySQL in MAMP.
